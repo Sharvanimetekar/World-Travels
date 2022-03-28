@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap);
+
+*{
+  margin: 0;
+  padding:0;
+}
+
+body{
+    font-family:'Zen Kurenaido', sans-serif;
+    background-image: url(https://www.gstatic.com/earth/social/00_generic_facebook-001.jpg);
+    background-size: cover;
+    text-align: center;
+    color: whitesmoke;
+}
+
+/* Styling submit button */
+#button{
+  display: block;
+  border-radius: 20px;
+  background-color: goldenrod;
+  color: whitesmoke;
+  border: none;
+  padding: 15px 20px;
+  margin: 40px auto;
+}
+
